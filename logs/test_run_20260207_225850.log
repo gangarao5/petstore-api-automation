@@ -1,0 +1,6 @@
+2026-02-07 22:58:50,703 | INFO | test_pet_crud.py:9 | Creating a new pet
+2026-02-07 22:58:52,137 | INFO | test_pet_crud.py:13 | POST /pet response: 200
+2026-02-07 22:58:52,141 | INFO | test_pet_crud.py:24 | Getting pet by id: 962033
+2026-02-07 22:58:53,527 | INFO | test_pet_crud.py:28 | Updating pet status to sold
+2026-02-07 22:58:54,947 | INFO | test_pet_crud.py:33 | Deleting pet
+2026-02-07 22:58:56,305 | INFO | test_pet_crud.py:37 | Verifying pet is deleted
